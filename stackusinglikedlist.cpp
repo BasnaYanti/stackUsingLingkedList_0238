@@ -68,3 +68,12 @@ class stack
         }
 };
 
+int main()
+{
+    stack stact;
+
+    int choice = 0;
+    int value;
+
+    
+}
